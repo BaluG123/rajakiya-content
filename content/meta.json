@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-09-05",
-  "languages": ["en"]
+  "languages": ["en", "hi", "kn", "ta", "te", "bn", "mr"]
 }
