@@ -1,6 +1,55 @@
 {
   "version": 1,
+  "language": "en",
   "articles": [
+    {
+      "id": "2026-09-08-brics-summit-preview",
+      "category": "diplomacy",
+      "date": "2026-09-08",
+      "image": "https://raw.githubusercontent.com/BaluG123/rajakiya-content/main/images/diplomacy-01.png",
+      "title": "India to Host Expanded BRICS Summit With Putin, Xi Expected",
+      "summary": "India will host an expanded 11-nation BRICS summit in New Delhi on September 12-13, with Russian President Vladimir Putin confirmed and Chinese President Xi Jinping expected. The bloc, now spanning Asia, Africa and the Middle East, will discuss local-currency trade, supply-chain security and reform of the UN Security Council and IMF."
+    },
+    {
+      "id": "2026-09-08-eci-bypoll-schedule",
+      "category": "election",
+      "date": "2026-09-08",
+      "image": "https://raw.githubusercontent.com/BaluG123/rajakiya-content/main/images/eci-03.png",
+      "title": "ECI Announces Bypolls in Four States, Voting on October 6",
+      "summary": "The Election Commission announced bypolls for six seats in Tamil Nadu, West Bengal, Assam and Puducherry, triggered by resignations including West Bengal's Suvendu Adhikari and Puducherry's N. Rangasamy. Nominations open September 9 and close September 16, with polling on October 6 and counting on October 9."
+    },
+    {
+      "id": "2026-09-08-gst-council-57th-meeting",
+      "category": "policy",
+      "date": "2026-09-08",
+      "image": "https://raw.githubusercontent.com/BaluG123/rajakiya-content/main/images/policy-002.png",
+      "title": "57th GST Council to Meet September 12, Registration Reform on Agenda",
+      "summary": "The GST Council will meet for the 57th time on September 12 in New Delhi, its first sitting in a year, chaired by Finance Minister Nirmala Sitharaman. The agenda includes simplifying registration for larger businesses and easing provisional refund rules based on risk assessment. The last meeting had consolidated GST into a two-rate structure of 5% and 18%."
+    },
+    {
+      "id": "2026-09-07-sc-neet-ug-firs-quashed",
+      "category": "judiciary",
+      "date": "2026-09-07",
+      "image": "https://raw.githubusercontent.com/BaluG123/rajakiya-content/main/images/sc-02.png",
+      "title": "Supreme Court Quashes NEET-UG Protest FIRs, Orders Compensation Policy",
+      "summary": "A three-judge bench led by Chief Justice Surya Kant quashed FIRs from July's NEET-UG protests, invoking Article 142 to protect \"bonafide\" peaceful demonstrators, in Shailendra Mani Tripathi v. Union of India. Police may still pursue 2,873 people flagged with serious criminal records. The Centre must frame a compensation policy within 90 days for bereaved families."
+    },
+    {
+      "id": "2026-09-07-cabinet-reshuffle-review",
+      "category": "government",
+      "date": "2026-09-07",
+      "image": "https://raw.githubusercontent.com/BaluG123/rajakiya-content/main/images/government-01.png",
+      "title": "PM Modi Reviews Ministers' Performance Ahead of Likely Cabinet Reshuffle",
+      "summary": "Prime Minister Modi held performance-review meetings with Ministers of State at Sewa Tirth, following sessions with senior Cabinet colleagues, seen as preparation for a possible council of ministers reshuffle. A special Parliament session is expected in the third week of September. No reshuffle date has been confirmed."
+    },
+    {
+      "id": "2026-09-06-karnataka-sir-claims-window",
+      "category": "election",
+      "date": "2026-09-06",
+      "image": "https://raw.githubusercontent.com/BaluG123/rajakiya-content/main/images/eci-02.png",
+      "title": "Karnataka's Electoral Roll Revision Enters Claims and Objections Window",
+      "summary": "Karnataka's electoral roll revision entered its claims-and-objections window, open until September 23, after draft rolls were published on August 24 with October 1 as the qualifying date. The exercise follows opposition criticism of similar SIR drives elsewhere over fears of wrongful deletions. The final roll is due October 27."
+    },
     {
       "id": "2026-09-05-parliament-monsoon-session",
       "category": "parliament",
